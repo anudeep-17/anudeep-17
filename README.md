@@ -1,6 +1,6 @@
 ### Hi there, I am Sai Vishnu Anudeep Kadiyala 👋👋
  
-## I'm currently a undergraduate student, who loves to code.
+## I'm currently an Undergraduate student, who loves to code !
 
 - 👨‍🎓 Currently a combined Bachelor's and Master's student of UAbany, SUNY majoring in Computer Science.
 - 📚 I’m currently learning developing apps using Java and flutter in android studio. 
