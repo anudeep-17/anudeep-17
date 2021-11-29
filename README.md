@@ -1,10 +1,9 @@
 ### Hi there, I am Sai Vishnu Anudeep Kadiyala 👋👋
  
-## I'm currently a undergraduate [junior year] student, who loves to code.
+## I'm currently a undergraduate student, who loves to code.
 
-- 👨‍🎓 Currently a combined Bachelor's and Master's student of UAbany, SUNY majoring in Computer Science with informatics as minor.
+- 👨‍🎓 Currently a combined Bachelor's and Master's student of UAbany, SUNY majoring in Computer Science.
 - 📚 I’m currently learning developing apps using Java and flutter in android studio. 
-- 💬 Ask me about: Anything related to Java, Flutter, data structure ..etc
 - 📫 How to reach me: saivishnuanudeepk@gmail.com or <a href="https://www.linkedin.com/in/saivishnuanudeepkadiyala/">my linkedin</a>
 - 🌍 My portfolio - https://anudeep-17.github.io/
 - ⚡ Fun fact: ....apart from coding I am a gym freak 🏋️‍♂️😁
