@@ -19,4 +19,4 @@
 *Thank you!* 
 <a href="https://www.instagram.com/anudeep.7/"><img align="right" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" width = "20px"/></a>
 <a href="https://www.linkedin.com/in/saivishnuanudeepkadiyala/"><img align="right" src="https://img.icons8.com/color/48/000000/linkedin.png" width ="20px"/></a>
-<a href="https://anudeep-17.github.io/"><img align="right" src="https://img.icons8.com/fluency/48/000000/domain.png" width="20px"/></a>
+<a href="https://anudeep-17.github.io/"><img align = "right" src="https://img.icons8.com/external-becris-flat-becris/64/000000/external-portfolio-business-management-becris-flat-becris.png" width ="25px"/></a>
