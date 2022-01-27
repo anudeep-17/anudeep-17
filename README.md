@@ -1,7 +1,7 @@
 ### Hi there, I am Sai Vishnu Anudeep Kadiyala 👋👋
  
 ## I'm currently an Undergraduate student, who loves to code !
-<p><img align= "right" alt="gif" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" width="500px" height = "300px"/></p>
+<p><img align= "right" alt="gif" src="output-onlinegiftools.gif" width="500px" height = "300px"/></p>
 
 <p align = "left">
 - 👨‍🎓 Currently a combined Bachelor's and Master's student of UAbany, SUNY majoring in Computer Science.<br/>
