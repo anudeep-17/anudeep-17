@@ -4,7 +4,7 @@
 <p><img align= "right" alt="gif" src="output-onlinegiftools.gif" width="500px" height = "300px"/></p>
 
 <p align = "left">
-- 👨‍🎓 Currently a combined Bachelor's and Master's student of UAbany, SUNY majoring in Computer Science.<br/>
+- 👨‍🎓 Currently a Bachelor's student of UAbany, SUNY majoring in Computer Science.<br/>
 - 📚 I’m currently learning developing apps using Java and flutter in android studio. <br/>
 - 📫 How to reach me: <a href="mailto:saivishnuanudeepk@gmail.com">saivishnuanudeepk@gmail.com</a> or <a href="https://www.linkedin.com/in/saivishnuanudeepkadiyala/">my linkedin</a><br/>
 - 🌍 My portfolio - https://anudeep-17.github.io/<br/>
