@@ -6,9 +6,9 @@
 <p align = "left">
 - 👨‍🎓 Currently a Bachelor's student of UAbany, SUNY majoring in Computer Science.<br/>
 - 📚 I’m currently learning developing apps using Java and flutter in android studio. <br/>
-- 📫 How to reach me: <a href="mailto:saivishnuanudeepk@gmail.com">saivishnuanudeepk@gmail.com</a> or <a href="https://www.linkedin.com/in/saivishnuanudeepkadiyala/">my linkedin</a><br/>
+- 📫 How to reach me: <a href="mailto:saivishnuanudeepk@gmail.com">saivishnuanudeepk@gmail.com</a><br/>
 - 🌍 My portfolio - https://anudeep-17.github.io/<br/>
-- ⚡ Fun fact: ....apart from coding I am a gym freak 🏋️‍♂️😁<br/>
+- ⚡ Fun fact: ....apart from coding I am a        gym freak 🏋️‍♂️😁<br/>
 </p>
 
 
