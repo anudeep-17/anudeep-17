@@ -14,6 +14,9 @@
 
 ### Languages & IDE's I use:
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png" width="30px"/> <img src="https://img.icons8.com/color/48/000000/flutter.png" width="30px"/> <img src="https://img.icons8.com/color/48/000000/c-programming.png" width="30px"/> <img src="https://img.icons8.com/color/48/000000/python--v1.png" width="30px"/> <img src="https://img.icons8.com/color/48/000000/html-5.png" width="30px"/> <img src="https://img.icons8.com/color/48/000000/css3.png" width="30px"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="30px"/> <img src="https://img.icons8.com/color/48/000000/android-studio--v2.png" width="30px"/> <img src="https://img.icons8.com/office/40/000000/java-eclipse.png" width="30px"/> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="30px"/> <img src="http://www.itzgeek.com/wp-content/uploads/2012/02/NetBeans-Logo.png" width="30px"/> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="30px"/> <img src="https://img.icons8.com/color/48/000000/git.png" width="30px"/>
+<img src="https://user-images.githubusercontent.com/54953858/200421208-37f0126d-6069-4bce-ac7f-78fcfd5543a3.png" width="30px"/>
+<img src="https://user-images.githubusercontent.com/54953858/200421526-1caa21eb-e90e-41ae-a45d-aeffe31a838e.png" width="30px"/>
+<img src="https://user-images.githubusercontent.com/54953858/200421208-37f0126d-6069-4bce-ac7f-78fcfd5543a3.png" width="30px"/>
 
 ---
 
