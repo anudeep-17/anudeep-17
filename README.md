@@ -27,7 +27,9 @@
 <a href="https://anudeep-17.github.io/"><img align = "right" src="https://img.icons8.com/external-becris-flat-becris/64/000000/external-portfolio-business-management-becris-flat-becris.png" width ="25px"/></a>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anudeep-17&theme=tokyonight&layout=compact&hide=Tsql,css,scss)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anudeep-17&theme=gotham&layout=compact&hide=Tsql,css,scss)
 <!-- ![anudeep-17's GitHub stats](https://github-readme-stats.vercel.app/api?username=anudeep-17&show_icons=true&theme=tokyonight)
  -->
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/anudeep-17?cardType=level-alternate&theme=tokyonight)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/anudeep-17?cardType=level-alternate&theme=gotham)](https://git.io/awesome-stats-card)
+
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=anudeep-17&theme=gotham)](https://git.io/streak-stats) -->
