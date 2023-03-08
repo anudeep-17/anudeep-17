@@ -4,8 +4,9 @@
 <p><img align= "right" alt="gif" src="output-onlinegiftools.gif" width="500px" height = "300px"/></p>
 
 <p align = "left">
-- 👨‍🎓 Currently a Bachelor's student of UAbany, SUNY majoring in Computer Science.<br/>
-- 📚 I’m currently learning developing Mobile and Web applications. <br/>
+- 👨‍🎓 Currently a Master's student of UAbany, SUNY majoring in Computer Science.<br/>
+- 📚 Enthusiastic Project developer <br/>
+      I love the challenge of creating efficient and elegant solutions to complex problems, and I am always eager to learn and improve my skills.<br>
 - 📫 How to reach me: <a href="mailto:saivishnuanudeepk@gmail.com">saivishnuanudeepk@gmail.com</a><br/>
 - 🌍 My portfolio - https://anudeep-17.github.io/<br/>
 - ⚡ Fun fact: ....apart from coding I am a        gym freak 🏋️‍♂️😁<br/>
