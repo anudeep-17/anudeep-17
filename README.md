@@ -1,6 +1,6 @@
 ### Hi there, I am Sai Vishnu Anudeep Kadiyala 👋👋
  
-## I'm currently an Undergraduate student, who loves to code !
+## I'm currently a graduate student, who loves to code !
 <p><img align= "right" alt="gif" src="output-onlinegiftools.gif" width="500px" height = "300px"/></p>
 
 <p align = "left">
