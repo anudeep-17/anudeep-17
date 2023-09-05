@@ -32,5 +32,5 @@
  
 [![Anudeep's GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/anudeep-17?cardType=level-alternate&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=anudeep-17&theme=gotham)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=anudeep-17&theme=gotham)](https://git.io/streak-stats) -->
 
