@@ -28,7 +28,7 @@
 <a href="https://anudeep-17.github.io/"><img align = "right" src="https://img.icons8.com/external-becris-flat-becris/64/000000/external-portfolio-business-management-becris-flat-becris.png" width ="25px"/></a>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anudeep-17&layout=compact&hide=css,scss,tsql&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anudeep-17&layout=compact&hide=css,scss,tsql,racket&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
  
 [![Anudeep's GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/anudeep-17?cardType=level-alternate&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
