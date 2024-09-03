@@ -1,10 +1,10 @@
 ### Hi there, I am Sai Vishnu Anudeep Kadiyala 👋👋
  
-## I'm currently a graduate student, who loves to code !
+## A graduate student, who loves to code !
 <p><img align= "right" alt="gif" src="output-onlinegiftools.gif" width="500px" height = "300px"/></p>
 
 <p align = "left">
-- 👨‍🎓 Currently a Master's student of UAbany, SUNY majoring in Computer Science.<br/>
+- 👨‍🎓 Master's student of UAbany, SUNY majoring in Computer Science.<br/>
 - 📚 Enthusiastic Project developer <br/>
 - 📫 How to reach me: <a href="mailto:saivishnuanudeepk@gmail.com">saivishnuanudeepk@gmail.com</a><br/>
 - 🌍 My portfolio - https://anudeep-17.github.io/<br/>
