@@ -1,35 +1,71 @@
-### Hi there, I am Sai Vishnu Anudeep Kadiyala 👋👋
- 
-## A graduate student, who loves to code !
-<p><img align= "right" alt="gif" src="output-onlinegiftools.gif" width="500px" height = "300px"/></p>
+### Hey there, I’m Sai Vishnu Anudeep Kadiyala 👋. Welcome to my GitHub!  
+Check out my website @ [anudeep-17.github.io](https://anudeep-17.github.io/)
 
-<p align = "left">
-- 👨‍🎓 Master's student of UAbany, SUNY majoring in Computer Science.<br/>
-- 📚 Enthusiastic Project developer <br/>
-- 📫 How to reach me: <a href="mailto:saivishnuanudeepk@gmail.com">saivishnuanudeepk@gmail.com</a><br/>
-- 🌍 My portfolio - https://anudeep-17.github.io/<br/>
-- ⚡ Fun fact: ....apart from coding I am a        gym freak 🏋️‍♂️😁<br/>
-</p>
+<p><img align="right" alt="gif" src="output-onlinegiftools.gif" width="500px" height="300px"/></p>
 
-
-### Languages & IDE's I use:
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png" width="30px"/> <img src="https://img.icons8.com/color/48/000000/flutter.png" width="30px"/> <img src="https://img.icons8.com/color/48/000000/c-programming.png" width="30px"/> <img src="https://img.icons8.com/color/48/000000/python--v1.png" width="30px"/> <img src="https://img.icons8.com/color/48/000000/html-5.png" width="30px"/> <img src="https://img.icons8.com/color/48/000000/css3.png" width="30px"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="30px"/> <img src="https://img.icons8.com/color/48/000000/android-studio--v2.png" width="30px"/> <img src="https://img.icons8.com/office/40/000000/java-eclipse.png" width="30px"/> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="30px"/> <img src="http://www.itzgeek.com/wp-content/uploads/2012/02/NetBeans-Logo.png" width="30px"/> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="30px"/> <img src="https://img.icons8.com/color/48/000000/git.png" width="30px"/>
-<img src="https://user-images.githubusercontent.com/54953858/200421208-37f0126d-6069-4bce-ac7f-78fcfd5543a3.png" width="30px"/>
-<img src="https://user-images.githubusercontent.com/54953858/200421526-1caa21eb-e90e-41ae-a45d-aeffe31a838e.png" width="30px"/>
-<img src="https://user-images.githubusercontent.com/54953858/200421708-c4dc29a9-64fa-4a66-b9b6-910ab622e9e4.png" width="30px"/>
-<img src="https://img.icons8.com/color/48/null/docker.png" width="30px"/>
 ---
 
-### Do check my projects!! 👇👇👇 
-*Thank you!* 
-<a href="https://www.instagram.com/anudeep.7/"><img align="right" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" width = "20px"/></a>
-<a href="https://www.linkedin.com/in/saivishnuanudeepkadiyala/"><img align="right" src="https://img.icons8.com/color/48/000000/linkedin.png" width ="20px"/></a>
-<a href="https://anudeep-17.github.io/"><img align = "right" src="https://img.icons8.com/external-becris-flat-becris/64/000000/external-portfolio-business-management-becris-flat-becris.png" width ="25px"/></a>
+### 🌟 About Me  
+I'm a **passionate coder** driven to create solutions to real-world problems! As a **full-stack developer** with expertise in **Java**, **Python**, and **Agile methodologies**, I’ve honed my ability to collaborate on innovative projects that thrive in dynamic, fast-paced environments. I’m always looking to push the boundaries of what technology can achieve, with a focus on **creative problem-solving** and **continuous learning**.
 
+---
 
+### 🎓 Education  
+**Master's Student in Computer Science** at UAlbany, SUNY (GPA: 3.83/4.0)  
+I'm diving deep into cutting-edge tech! My coursework spans everything from **Software Engineering** and **Data Mining** to **AI** and **Algorithms & Data Structures**.
+
+---
+
+### 💼 Professional Experience  
+I’ve been working as a **Full-Stack Developer**, sharpening my skills by building end-to-end solutions at **Re:Charge-e** and **Anemoia Studios**:  
+- **At Re:Charge-e:** I designed and developed a user-friendly, multifaceted web application to manage company operations. Leveraging **AWS** and **Express.js**, I increased charging station management efficiency by 70% and boosted company revenue by 50%!  
+- **At Anemoia Studios:** I collaborated with a team to build a cross-platform app for workplace reviews, shifting the codebase from Dart to React Native. The result? A faster, more efficient app that increased in-app engagement by 65%!
+
+---
+
+### 🔥 My Stats  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anudeep-17&layout=compact&hide=css,scss,tsql,racket,html&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
  
 [![Anudeep's GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/anudeep-17?cardType=level-alternate&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=anudeep-17&theme=gotham)](https://git.io/streak-stats) -->
+---
 
+### 🖥️ Tech Stack  
+Here’s a glimpse into my tech arsenal:
+
+- **Programming Languages:** Java, Python, C, C++, Kotlin, Dart, JavaScript, TypeScript 🧑‍💻  
+- **Web Development:** React.js, Next.js, Node.js, Vue.js, Three.js, D3.js, Django, Wagtail, Contentlayer 🌐  
+- **Databases:** SQL (MySQL, PostgreSQL, MS SQL), NoSQL (MongoDB, Redis), ORM tools (Prisma) 💾  
+- **Cloud & DevOps:** AWS (including Serverless Architecture), Azure, Docker, Jenkins ☁️  
+- **Tools/Frameworks:** Spring Boot, Express.js, Git (Version Control), Postman, Selenium, MVC Architecture 🛠️  
+- **Other Web Technologies:** PHP, HTML, CSS, XML, jQuery, RESTful APIs, Responsive Design 🌐
+
+---
+
+### 🚀 Seeking Full-Time Roles  
+I’m actively looking for full-time roles where I can bring my skills to the table and contribute to meaningful projects. Here are the roles that excite me:
+
+- **Software Developer / Software Engineer / Software Development Engineer (SD, SE, SDE)**  
+- **Application Developer**  
+- **Web Developer / Web Application Developer**  
+- **Full Stack Developer**
+
+If you're looking for someone who loves tackling challenges head-on, let's talk!
+
+---
+
+### 🏋️‍♂️ Fun Fact  
+When I’m not coding, you’ll find me lifting weights at the gym or exploring the latest trends in tech (seriously, I might just start coding at the gym next!). 💪😁
+
+---
+
+### Let’s Connect and Explore Possibilities!  
+I pride myself on being a **team player** who thrives in collaborative environments that value open communication and shared success. Whether it's building products from scratch or enhancing existing solutions, I believe in harnessing the power of teamwork to achieve outstanding results.
+
+I’m excited to bring this approach to new opportunities and contribute to high-performing teams. If you see an opportunity for us to collaborate or just want to chat about tech, **let’s connect**! 🌐
+
+- 📧 Drop me an email at: [saivishnuanudeepk@gmail.com](mailto:saivishnuanudeepk@gmail.com)  
+- 🌍 Check out my portfolio: [https://anudeep-17.github.io/](https://anudeep-17.github.io/)  
+- 💼 Connect on [LinkedIn](https://www.linkedin.com/in/saivishnuanudeepkadiyala/) and explore my work on [GitHub](https://github.com/anudeep-17)
+
+***[crtl+ C]***
