@@ -1,5 +1,5 @@
 ### Hey there, I’m Sai Vishnu Anudeep Kadiyala 👋. Welcome to my GitHub!  
-Check out my website @ [anudeep-17.github.io](https://anudeep-17.github.io/)
+Check out my website @ [everythingbyak.com](https://www.everythingbyak.com/)
 
 <p><img align="right" alt="gif" src="output-onlinegiftools.gif" width="500px" height="300px"/></p>
 
