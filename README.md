@@ -11,7 +11,7 @@ I'm a **passionate coder** driven to create solutions to real-world problems! As
 ---
 
 ### 🎓 Education  
-**Master's Student in Computer Science** at UAlbany, SUNY (GPA: 3.83/4.0)  
+**Master's Student in Computer Science** at UAlbany, SUNY (GPA: 3.88/4.0)  
 I'm diving deep into cutting-edge tech! My coursework spans everything from **Software Engineering** and **Data Mining** to **AI** and **Algorithms & Data Structures**.
 
 ---
