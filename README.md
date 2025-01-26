@@ -68,4 +68,4 @@ I’m excited to bring this approach to new opportunities and contribute to high
 - 🌍 Check out my portfolio: [https://anudeep-17.github.io/](https://anudeep-17.github.io/)  
 - 💼 Connect on [LinkedIn](https://www.linkedin.com/in/saivishnuanudeepkadiyala/) and explore my work on [GitHub](https://github.com/anudeep-17)
 
-***[cmd+ S]***
+***[⌘ + C]***
