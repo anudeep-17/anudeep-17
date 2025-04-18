@@ -65,7 +65,7 @@ I pride myself on being a **team player** who thrives in collaborative environme
 I’m excited to bring this approach to new opportunities and contribute to high-performing teams. If you see an opportunity for us to collaborate or just want to chat about tech, **let’s connect**! 🌐
 
 - 📧 Drop me an email at: [saivishnuanudeepk@gmail.com](mailto:saivishnuanudeepk@gmail.com)  
-- 🌍 Check out my portfolio: [https://anudeep-17.github.io/](https://anudeep-17.github.io/)  
+- 🌍 Check out my portfolio: [everythingbyak.com](https://www.everythingbyak.com/)
 - 💼 Connect on [LinkedIn](https://www.linkedin.com/in/saivishnuanudeepkadiyala/) and explore my work on [GitHub](https://github.com/anudeep-17)
 
 ***[⌘ + s]***
