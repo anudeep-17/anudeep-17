@@ -57,9 +57,20 @@ Here’s a peek at the tools and technologies I work with:
 
 ## 📊 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anudeep-17&layout=compact&hide=css,scss,tsql,racket,html&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
-[![Anudeep's GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/anudeep-17?cardType=level-alternate&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-
+<table style="border: none; border-collapse: collapse;">
+  <tr>
+    <td style="border: none; padding: 0;">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anudeep-17&layout=compact&hide=css,scss,tsql,racket,html&theme=tokyonight" alt="Top Languages" />
+      </a>
+    </td>
+    <td style="border: none; padding: 0;">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://awesome-github-stats.azurewebsites.net/user-stats/anudeep-17?cardType=level-alternate&theme=gotham" alt="Anudeep's GitHub Stats" />
+      </a>
+    </td>
+  </tr>
+</table>
 ---
 
 ## 🏋️‍♂️ Beyond the Code
