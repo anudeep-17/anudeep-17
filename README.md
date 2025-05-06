@@ -57,20 +57,23 @@ Here’s a peek at the tools and technologies I work with:
 
 ## 📊 GitHub Stats
 
-<table style="border: none; border-collapse: collapse;">
-  <tr>
-    <td style="border: none; padding: 0;">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anudeep-17&layout=compact&hide=css,scss,tsql,racket,html&theme=tokyonight" alt="Top Languages" />
-      </a>
-    </td>
-    <td style="border: none; padding: 0;">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://awesome-github-stats.azurewebsites.net/user-stats/anudeep-17?cardType=level-alternate&theme=gotham" alt="Anudeep's GitHub Stats" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; align-items: flex-start;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=anudeep-17&layout=compact&hide=css,scss,tsql,racket,html&theme=tokyonight"
+      alt="Top Languages"
+      style="max-width: 400px; height: auto;"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      src="https://awesome-github-stats.azurewebsites.net/user-stats/anudeep-17?cardType=level-alternate&theme=gotham"
+      alt="Anudeep's GitHub Stats"
+      style="max-width: 400px; height: auto;"
+    />
+  </a>
+</div>
+
 ---
 
 ## 🏋️‍♂️ Beyond the Code
