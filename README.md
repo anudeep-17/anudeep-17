@@ -9,89 +9,63 @@ Welcome to my GitHub space!
 
 ---
 
-## 🌟 About Me
+## ⚙️ Tech Stack
 
-I'm a **creative problem-solver** and **full-stack developer** passionate about building tech that makes a difference. With strong foundations in **Java**, **Python**, and **Agile development**, I thrive in dynamic environments where collaboration and innovation go hand in hand. Whether it’s developing robust backends or crafting intuitive frontends, I love pushing the boundaries of what's possible through technology.
+**Languages:** Java, Python, C, C++, Kotlin, Dart, JavaScript, TypeScript  
+**Frontend:** React.js, Next.js, Vue.js, Three.js, D3.js  
+**Backend:** Node.js, Django, Express.js, Spring Boot, Wagtail  
+**Databases:** MySQL, PostgreSQL, MS SQL, MongoDB, Redis, Prisma ORM  
+**DevOps & Cloud:** AWS, Azure, Docker, Jenkins  
+**Other Tools:** Git, Postman, Selenium, MVC, RESTful APIs, Responsive Design, Contentlayer, PHP, HTML, CSS, jQuery
 
 ---
 
-## 🎓 Education
+<details>
+  <summary><strong>🎓 Education & 💼 Experience (click to expand)</strong></summary>
+
+### 🎓 Education
 
 **M.S. in Computer Science**  
-*University at Albany, SUNY* — *GPA: 3.88 / 4.0*
-
-My academic journey has been all about exploring the bleeding edge of tech — from **Artificial Intelligence** and **Data Mining** to **Software Engineering** and **Algorithms**. I’m always learning, always evolving.
-
----
-
-## 💼 Professional Experience
-
-### 🔧 Re:Charge-e  
-**Software Development Engineer**
-
-- Designed and deployed a multifunctional web app to streamline EV station operations  
-- Enhanced station management efficiency by **70%** and contributed to a **50% boost in company revenue**  
-- Leveraged **AWS**, **Express.js**, and secure role-based portals
-
-### 🧩 Anemoia Studios  
-**Software Engineer Intern**
-
-- Helped revamp a workplace review app by shifting from Dart to **React Native**, enhancing performance  
-- Contributed to a smoother UI/UX, increasing user engagement by **65%**  
-- Built cross-platform compatibility and maintained scalable Firebase architecture
+*University at Albany, SUNY* — *GPA: 3.88 / 4.0*  
+Courses: AI, Data Mining, Software Engineering, Algorithms
 
 ---
 
-## 🧠 Tech Stack
+### 💼 Experience
 
-Here’s a peek at the tools and technologies I work with:
+#### 🔧 Re:Charge-e — Software Development Engineer  
+- Designed and deployed multifunctional web app for EV operations  
+- Boosted management efficiency by **70%** and revenue by **50%**  
+- Used **AWS**, **Express.js**, and secure role-based portals
 
-- **Languages:** Java, Python, C, C++, Kotlin, Dart, JavaScript, TypeScript  
-- **Frontend:** React.js, Next.js, Vue.js, Three.js, D3.js  
-- **Backend:** Node.js, Django, Express.js, Spring Boot, Wagtail  
-- **Databases:** MySQL, PostgreSQL, MS SQL, MongoDB, Redis, Prisma ORM  
-- **DevOps & Cloud:** AWS, Azure, Docker, Jenkins  
-- **Other Tools:** Git, Postman, Selenium, MVC, RESTful APIs, Responsive Design, Contentlayer, PHP, HTML, CSS, jQuery
+#### 🧩 Anemoia Studios — Software Engineer Intern  
+- Migrated app from Dart to **React Native** for better UX  
+- Upped user engagement by **65%**  
+- Built scalable Firebase architecture
+
+</details>
 
 ---
 
 ## 📊 GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anudeep-17&layout=compact&hide=css,scss,tsql,racket,html&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; align-items: flex-start;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=anudeep-17&layout=compact&hide=css,scss,tsql,racket,html&theme=tokyonight"
-      alt="Top Languages"
-      style="max-width: 400px; height: auto;"
-    />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      src="https://awesome-github-stats.azurewebsites.net/user-stats/anudeep-17?cardType=level-alternate&theme=gotham"
-      alt="Anudeep's GitHub Stats"
-      style="max-width: 400px; height: auto;"
-    />
-  </a>
-</div>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/anudeep-17?cardType=level-alternate&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ---
 
 ## 🏋️‍♂️ Beyond the Code
 
-When I’m not writing code, you’ll likely catch me lifting weights or geeking out over the latest tech trends (yes, I’ve *considered* coding at the gym!). I believe in a balanced life — brains and biceps included. 💪😄
+Outside tech, you’ll find me lifting weights, playing cricket, or exploring new content ideas for my podcast and YouTube. I blend engineering logic with creativity for balance — brains and biceps included. 💪
 
 ---
 
 ## 🤝 Let’s Connect
 
-I'm a strong believer in **teamwork, innovation, and shared success**. Whether it’s building software from scratch or refining existing solutions, I enjoy contributing to impactful projects and learning from brilliant minds.
-
-📬 Reach out anytime — let’s build something amazing together:
-
-- 📧 [saivishnuanudeepk@gmail.com](mailto:saivishnuanudeepk@gmail.com)  
-- 🌐 [everythingbyak.com](https://www.everythingbyak.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/saivishnuanudeepkadiyala/)  
-- 💻 [GitHub](https://github.com/anudeep-17)
+📬 [saivishnuanudeepk@gmail.com](mailto:saivishnuanudeepk@gmail.com)  
+🌐 [everythingbyak.com](https://www.everythingbyak.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/saivishnuanudeepkadiyala/)  
+💻 [GitHub](https://github.com/anudeep-17)
 
 ---
 
