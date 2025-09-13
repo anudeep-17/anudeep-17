@@ -26,7 +26,7 @@ Welcome to my GitHub space!
 ### 🎓 Education
 
 **M.S. in Computer Science**  
-*University at Albany, SUNY* — *GPA: 3.88 / 4.0*  
+*University at Albany, SUNY* — *GPA: 3.9 / 4.0*  
 Courses: AI, Data Mining, Software Engineering, Algorithms
 
 ---
